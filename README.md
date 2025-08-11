@@ -1,0 +1,1 @@
+EdgeDepth is a super-compact object detector and depth estimator designed for ultra-low-resource devices like microcontrollers. It delivers real-time detection with dynamic bounding boxes for measuring it's approximate depth, balancing accuracy and tiny memory footprints—perfect for edge AI applications where every byte counts.
